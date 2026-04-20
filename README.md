@@ -121,12 +121,6 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gurugetnm&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=gurugetnm&theme=default&hide_border=true" />
-  <img width="70%" src="https://streak-stats.demolab.com?user=gurugetnm&theme=default&hide_border=true" alt="Thevindu Guruge GitHub streak" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=tokyo-night&hide_border=true&area=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&hide_border=true&area=true" />
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&hide_border=true&area=true" alt="Thevindu Guruge activity graph" />
