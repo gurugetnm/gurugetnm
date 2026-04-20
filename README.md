@@ -1,102 +1,77 @@
-<h1 align="center">Hi, I'm Thevindu Guruge</h1>
-<h3 align="center">Software Engineering undergraduate at Informatics Institute of Technology (IIT)</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:gurugetnm@gmail.com">gurugetnm@gmail.com</a>
+<h1>Hi, I'm Thevindu Guruge</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Full-Stack+Developer+in+Progress;Mobile+App+and+UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing animation" />
+
+<p>
+  <a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/Email-gurugetnm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gurugetnm&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
+
+</div>
 
 ---
 
 ### About Me
 
-- I am an undergraduate student at **Informatics Institute of Technology (IIT)**.
-- I enjoy building web, mobile, and software projects with clean, practical user experiences.
-- I am interested in full-stack development, mobile app development, databases, and UI/UX design.
-- You can reach me at **gurugetnm@gmail.com**.
+- I am a Software Engineering undergraduate at **Informatics Institute of Technology (IIT)**.
+- I like building practical web, mobile, and software projects with clean user experiences.
+- I am growing my skills in full-stack development, mobile apps, databases, and UI/UX design.
+- I enjoy learning by building projects, fixing problems, and improving the small details.
 
-### Currently Learning
+### Focus Right Now
 
-- React and modern frontend development
-- Spring Boot and backend API development
-- Flutter for mobile app development
-- Database design with MySQL and MongoDB
+| Building | Learning | Exploring |
+| --- | --- | --- |
+| Full-stack web apps | React and Spring Boot | Better UI/UX patterns |
+| Mobile app ideas | Flutter development | Clean database design |
+| Personal projects | API development | Real-world software workflows |
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
 
 ### Featured Projects
 
-- [My GitHub Repositories](https://github.com/gurugetnm?tab=repositories) - Explore my coursework, personal projects, and experiments.
-- More selected projects will be added here as I publish and polish them.
+- [Explore my repositories](https://github.com/gurugetnm?tab=repositories) - Coursework, personal projects, and experiments.
+- Selected project highlights will be added here as I polish and publish my best work.
 
 ### Connect With Me
 
 <p align="left">
-  <a href="https://twitter.com/thevindunimdiy2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevindunimdiy2" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/thevindu-guruge" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevindu-guruge" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/thevindu.nimdiya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thevindu.nimdiya" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/thevindu_guruge" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thevindu_guruge" height="30" width="40" />
-  </a>
-</p>
-
-### Languages And Tools
-
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
-  </a>
+  <a href="https://twitter.com/thevindunimdiy2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/thevindu-guruge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/thevindu.nimdiya" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/thevindu_guruge" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&theme=default&hide_border=true" alt="Thevindu Guruge GitHub stats" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=tokyonight" alt="Thevindu Guruge GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=tokyonight" alt="Thevindu Guruge top languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true" alt="Thevindu Guruge top languages" />
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=gurugetnm&theme=tokyonight&hide_border=true" alt="Thevindu Guruge GitHub streak" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=gurugetnm&hide_border=true" alt="Thevindu Guruge GitHub streak" />
+---
+
+<p align="center">
+  Code. Learn. Build. Repeat.
 </p>
