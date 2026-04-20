@@ -115,17 +115,33 @@
 ### &#x1F4AB; GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=tokyonight" alt="Thevindu Guruge GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=tokyonight" alt="Thevindu Guruge top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=tokyonight&card_width=500" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=default&card_width=500" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=default&card_width=500" alt="Thevindu Guruge GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=tokyonight&card_width=500" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=default&card_width=500" />
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=default&card_width=500" alt="Thevindu Guruge top languages" />
+  </picture>
 </p>
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=gurugetnm&theme=tokyonight&hide_border=true" alt="Thevindu Guruge GitHub streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=tokyo-night&hide_border=true&area=true" alt="Thevindu Guruge activity graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gurugetnm&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=gurugetnm&theme=default&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=gurugetnm&theme=default&hide_border=true" alt="Thevindu Guruge GitHub streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&hide_border=true&area=true" alt="Thevindu Guruge activity graph" />
+</picture>
+
+</div>
 
 ### &#x1F91D; Connect With Me
 
