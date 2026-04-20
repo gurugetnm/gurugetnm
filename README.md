@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Thevindu Guruge</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Engineering+Undergraduate;Full-Stack+Web+Developer+in+Progress;AI-Powered+Applications+and+Agents;LLM+Integrations+and+Automation" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=760&lines=Software+Engineering+Undergraduate;AI%2FML+Engineer+in+Progress;AI-Powered+Applications+and+Agents;LLM+Integrations+and+Automation" alt="Typing animation" />
 
 <p>
   <a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/Email-gurugetnm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -16,13 +16,13 @@
 ### About Me
 
 - I am a Software Engineering undergraduate at **Informatics Institute of Technology (IIT)**.
-- I like turning ideas into practical web apps, AI-powered tools, and clean digital experiences.
+- I like turning ideas into AI-powered tools, intelligent applications, and clean digital experiences.
 - I am growing my skills in modern frameworks, cloud technologies, LLM applications, and developer automation.
 - I enjoy learning by building projects, fixing problems, and improving the small details.
 
 ### &#x1F680; Passion
 
-- Building full-stack web applications
+- Building AI/ML-powered applications
 - Creating clean and responsive UI/UX experiences
 - Developing AI-powered applications and agents
 - Learning modern frameworks and cloud technologies
