@@ -14,42 +14,64 @@
 
 ---
 
+### Hi, I'm Thevindu Guruge
+
+I am a **Software Engineering undergraduate at Informatics Institute of Technology (IIT)**, focused on growing into **AI/ML engineering** while building practical full-stack software.
+
+My work sits around **LLM applications, RAG systems, agents, automation, reliable APIs, and clean web/mobile interfaces**. I like turning ideas into usable products that solve real problems and are simple enough for people to trust.
+
 ### &#x1F9E0; About Me
 
-- I am a Software Engineering undergraduate at **Informatics Institute of Technology (IIT)**.
-- My main direction is **AI/ML engineering**, with a growing focus on LLM applications, agents, automation, and intelligent software.
-- I enjoy building practical tools that combine clean interfaces, useful APIs, and AI-powered workflows.
-- I learn best by building, experimenting, breaking things carefully, and improving the details.
+- I build practical software that connects thoughtful interfaces with dependable backend systems.
+- I enjoy designing AI-powered workflows that make information easier to search, automate, and use.
+- I care about clean UI, structured APIs, maintainable code, and learning through shipped projects.
+- I am currently strengthening my backend, cloud, system design, and applied AI foundations.
 
-### &#x1F680; Passion
+### &#x1F3AF; Focus Areas
 
-- Building AI/ML-powered applications
-- Creating clean and responsive UI/UX experiences
-- Developing AI-powered applications and agents
-- Learning modern frameworks and cloud technologies
-- Automating workflows and improving developer experience
-- Exploring LLM applications and AI integrations
+- AI-powered applications
+- LLM and RAG systems
+- Full-stack web development
+- Backend APIs
+- Automation and developer tools
 
-### &#x2699;&#xFE0F; AI/ML Lab
+### &#x1F4CC; Featured Projects
 
-| Area | What I am exploring |
+| Project | Description | Tech | Status |
+| --- | --- | --- | --- |
+| VenomVerse | A mobile application that identifies snakes, insects, and spiders using image-based machine learning models and provides useful safety and first-aid information. | Flutter, Firebase, Machine Learning, Python | In Progress |
+| TuitionLanka / Tutor Management Platform | A tutoring platform with tutor registration, admin dashboard, filtering, verification workflows, and communication features. | Next.js, Express.js, MongoDB, Tailwind CSS | Built |
+| RAG Chatbot | A retrieval-based chatbot system built with embeddings, vector search, and web/document-based knowledge retrieval. | React, Node.js, PostgreSQL/pgvector, Azure, Docker | Experimenting |
+| Guruge Cinnamon | An e-commerce platform for cinnamon products with order management, checkout flow, and backend API integration. | React, Node.js, Express.js, MongoDB | Improving |
+
+### &#x1F4DA; Currently Learning
+
+- Advanced Java backend development
+- Spring Boot
+- System design fundamentals
+- AI agents and LLM workflows
+- Cloud deployment and Docker
+
+### &#x1F4A1; What I Like To Build
+
+| Idea | Direction |
 | --- | --- |
-| LLM Apps | Chatbots, assistants, retrieval workflows, and AI integrations |
-| Agents | Tool-using agents, workflow automation, and multi-step reasoning systems |
-| Machine Learning | Python-based ML experiments, model workflows, and data-driven applications |
-| Applied AI | Turning real problems into useful intelligent software |
-| Developer Experience | Automating repetitive work and building smoother engineering workflows |
+| AI-assisted tools | Software that helps users search, summarize, decide, or act with useful context |
+| Data-driven applications | Interfaces that turn structured data into clear dashboards, filters, and workflows |
+| API-backed platforms | Reliable full-stack systems with authentication, admin features, and clean integrations |
+| Automation workflows | Small tools and agents that reduce repeated work and improve developer productivity |
 
 ### &#x1F6E0;&#xFE0F; Tech Stack
 
-#### AI / LLM Tools
+#### AI / ML
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI APIs" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/AI_Agents-0EA5E9?style=for-the-badge&logo=codementor&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG_Systems-22C55E?style=for-the-badge&logo=readme&logoColor=white" alt="RAG Systems" />
 </p>
 
 #### Frontend
@@ -59,15 +81,18 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### Backend & APIs
+#### Backend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration" />
 </p>
@@ -77,31 +102,26 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-#### DevOps & Tools
+#### DevOps & Cloud
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+#### Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
-
-### &#x1F4A1; What I Like To Build
-
-| Idea | Direction |
-| --- | --- |
-| AI assistants | Helpful apps that can reason, retrieve context, and take action |
-| Smart dashboards | Clean interfaces connected to data, APIs, and automation |
-| Agent workflows | Systems that break tasks into steps and use tools effectively |
-| Developer tools | Small automations that save time and reduce repeated work |
-
-### &#x1F4CC; Featured Projects
-
-- [Explore my repositories](https://github.com/gurugetnm?tab=repositories) - Coursework, personal projects, and experiments.
-- Selected AI/ML and software project highlights will be added here as I polish and publish my best work.
 
 ### &#x1F4AB; GitHub Activity
 
@@ -142,7 +162,7 @@
 
 <div align="center">
 
-<strong>Learning AI. Building agents. Shipping useful software.</strong>
+<strong>Learning deeply, building intelligently, and shipping software that helps.</strong>
 
 <br />
 <br />
