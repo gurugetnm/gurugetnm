@@ -7,6 +7,7 @@
 <p>
   <a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/Email-gurugetnm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/thevindu-guruge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Thevindu%20Guruge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.thevinduguruge.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-thevinduguruge.site-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <img src="https://komarev.com/ghpvc/?username=gurugetnm&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -153,6 +154,7 @@ My work sits around **LLM applications, RAG systems, agents, automation, reliabl
 <p align="center">
   <a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/thevindu-guruge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.thevinduguruge.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://twitter.com/thevindunimdiy2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://instagram.com/thevindu_guruge" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://fb.com/thevindu.nimdiya" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
