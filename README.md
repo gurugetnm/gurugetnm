@@ -40,7 +40,7 @@ My work sits around **LLM applications, RAG systems, agents, automation, reliabl
 
 | Project | Description | Tech | Status |
 | --- | --- | --- | --- |
-| VenomVerse | A mobile application that identifies snakes, insects, and spiders using image-based machine learning models and provides useful safety and first-aid information. | Flutter, Firebase, Machine Learning, Python | In Progress |
+| VenomVerse | A mobile application that identifies snakes, insects, and spiders using image-based machine learning models and provides useful safety and first-aid information. | Flutter, Firebase, Machine Learning, Python | Built |
 | TuitionLanka / Tutor Management Platform | A tutoring platform with tutor registration, admin dashboard, filtering, verification workflows, and communication features. | Next.js, Express.js, MongoDB, Tailwind CSS | Built |
 | RAG Chatbot | A retrieval-based chatbot system built with embeddings, vector search, and web/document-based knowledge retrieval. | React, Node.js, PostgreSQL/pgvector, Azure, Docker | Experimenting |
 | Guruge Cinnamon | An e-commerce platform for cinnamon products with order management, checkout flow, and backend API integration. | React, Node.js, Express.js, MongoDB | Improving |
