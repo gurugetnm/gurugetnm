@@ -1,174 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:22C55E&height=190&section=header&text=Thevindu%20Guruge&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20Progress%20%7C%20Software%20Engineering%20Undergraduate&descSize=16&descAlignY=60" alt="Thevindu Guruge profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:7C3AED,100:22C55E&height=180&section=header&text=Thevindu%20Guruge&fontSize=46&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20in%20Progress%20%C2%B7%20Software%20Engineering%20Undergraduate&descSize=16&descAlignY=54" width="100%" alt="Thevindu Guruge — AI/ML Engineer in Progress, Software Engineering Undergraduate" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+AI-powered+applications;Exploring+LLMs%2C+agents%2C+and+automation;Learning+ML+systems+one+project+at+a+time;Turning+ideas+into+intelligent+software" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=48&lines=LLM+applications+and+RAG+systems;Agents%2C+automation%2C+developer+tools;Full-stack+products+that+actually+ship" alt="What I work on" />
 
-<p>
-  <a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/Email-gurugetnm%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/thevindu-guruge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Thevindu%20Guruge-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.thevinduguruge.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-thevinduguruge.site-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gurugetnm&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-</p>
+<a href="https://www.thevinduguruge.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/thevindu-guruge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=gurugetnm&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:22C55E&height=6&section=header" width="100%" alt="" />
 
 </div>
 
----
+<br />
 
-### Hi, I'm Thevindu Guruge
+Software Engineering undergraduate at **Informatics Institute of Technology (IIT)**, moving toward AI/ML engineering while building full-stack products end to end.
 
-I am a **Software Engineering undergraduate at Informatics Institute of Technology (IIT)**, focused on growing into **AI/ML engineering** while building practical full-stack software.
+I work mostly on LLM applications, retrieval systems, and the APIs and interfaces around them — the goal being software that is genuinely useful and simple enough for people to trust. Currently deepening backend, cloud, and system design foundations.
 
-My work sits around **LLM applications, RAG systems, agents, automation, reliable APIs, and clean web/mobile interfaces**. I like turning ideas into usable products that solve real problems and are simple enough for people to trust.
+<br />
 
-### &#x1F9E0; About Me
+## Stack
 
-- I build practical software that connects thoughtful interfaces with dependable backend systems.
-- I enjoy designing AI-powered workflows that make information easier to search, automate, and use.
-- I care about clean UI, structured APIs, maintainable code, and learning through shipped projects.
-- I am currently strengthening my backend, cloud, system design, and applied AI foundations.
+<table width="100%">
+<tr>
+<td width="150"><img src="https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge&logoColor=white" alt="AI / ML" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" height="40" alt="Python, TensorFlow, scikit-learn" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/RAG-22C55E?style=for-the-badge&logo=readme&logoColor=white" alt="RAG" />
+</td>
+</tr>
+<tr>
+<td width="150"><img src="https://img.shields.io/badge/Frontend-0EA5E9?style=for-the-badge&logoColor=white" alt="Frontend" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter,html,css" height="40" alt="React, Next.js, TypeScript, Tailwind, Flutter, HTML, CSS" /></td>
+</tr>
+<tr>
+<td width="150"><img src="https://img.shields.io/badge/Backend-22C55E?style=for-the-badge&logoColor=white" alt="Backend" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" height="40" alt="Node.js, Express, Java, Spring Boot" /></td>
+</tr>
+<tr>
+<td width="150"><img src="https://img.shields.io/badge/Data-F59E0B?style=for-the-badge&logoColor=white" alt="Data" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" height="40" alt="MongoDB, PostgreSQL, Firebase" />
+<img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
+</td>
+</tr>
+<tr>
+<td width="150"><img src="https://img.shields.io/badge/Infra-EC4899?style=for-the-badge&logoColor=white" alt="Infra" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,azure,vercel,git,postman,vscode" height="40" alt="Docker, Azure, Vercel, Git, Postman, VS Code" /></td>
+</tr>
+</table>
 
-### &#x1F3AF; Focus Areas
+<br />
 
-- AI-powered applications
-- LLM and RAG systems
-- Full-stack web development
-- Backend APIs
-- Automation and developer tools
+## Projects
 
-### &#x1F4CC; Featured Projects
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Tech | Status |
-| --- | --- | --- | --- |
-| VenomVerse | A mobile application that identifies snakes, insects, and spiders using image-based machine learning models and provides useful safety and first-aid information. | Flutter, Firebase, Machine Learning, Python | Built |
-| TuitionLanka / Tutor Management Platform | A tutoring platform with tutor registration, admin dashboard, filtering, verification workflows, and communication features. | Next.js, Express.js, MongoDB, Tailwind CSS | Built |
-| RAG Chatbot | A retrieval-based chatbot system built with embeddings, vector search, and web/document-based knowledge retrieval. | React, Node.js, PostgreSQL/pgvector, Azure, Docker | Experimenting |
-| Guruge Cinnamon | An e-commerce platform for cinnamon products with order management, checkout flow, and backend API integration. | React, Node.js, Express.js, MongoDB | Improving |
+### VenomVerse
 
-### &#x1F4DA; Currently Learning
+<img src="https://img.shields.io/badge/Built-22C55E?style=for-the-badge&logoColor=white" alt="Built" />
 
-- Advanced Java backend development
-- Spring Boot
-- System design fundamentals
-- AI agents and LLM workflows
-- Cloud deployment and Docker
+Mobile app that identifies snakes, insects and spiders from images using ML models, with safety and first-aid guidance attached to each result.
 
-### &#x1F4A1; What I Like To Build
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
-| Idea | Direction |
+</td>
+<td width="50%" valign="top">
+
+### TuitionLanka
+
+<img src="https://img.shields.io/badge/Built-22C55E?style=for-the-badge&logoColor=white" alt="Built" />
+
+Tutoring platform with tutor registration, verification workflows, admin dashboard, filtering and messaging.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### RAG Chatbot
+
+<img src="https://img.shields.io/badge/Experimenting-F59E0B?style=for-the-badge&logoColor=white" alt="Experimenting" />
+
+Retrieval-based chatbot built on embeddings and vector search over web and document sources.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+
+</td>
+<td width="50%" valign="top">
+
+### Guruge Cinnamon
+
+<img src="https://img.shields.io/badge/Improving-0EA5E9?style=for-the-badge&logoColor=white" alt="Improving" />
+
+E-commerce platform for cinnamon products — catalogue, checkout flow, order management and backend API.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<details>
+<summary><strong>Currently learning &nbsp;/&nbsp; what I like to build</strong></summary>
+
+<br />
+
+**Learning right now**
+
+Advanced Java backend · Spring Boot · system design fundamentals · AI agents and LLM workflows · cloud deployment and Docker
+
+**What I like to build**
+
+| | |
 | --- | --- |
-| AI-assisted tools | Software that helps users search, summarize, decide, or act with useful context |
-| Data-driven applications | Interfaces that turn structured data into clear dashboards, filters, and workflows |
-| API-backed platforms | Reliable full-stack systems with authentication, admin features, and clean integrations |
-| Automation workflows | Small tools and agents that reduce repeated work and improve developer productivity |
+| **AI-assisted tools** | Software that helps people search, summarise, decide or act with useful context |
+| **Data-driven apps** | Interfaces that turn structured data into clear dashboards, filters and workflows |
+| **API-backed platforms** | Full-stack systems with auth, admin features and clean integrations |
+| **Automation** | Small tools and agents that cut repeated work |
 
-### &#x1F6E0;&#xFE0F; Tech Stack
+</details>
 
-#### AI / ML
+<br />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Machine_Learning-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI APIs" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LlamaIndex-6B46C1?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/RAG_Systems-22C55E?style=for-the-badge&logo=readme&logoColor=white" alt="RAG Systems" />
-</p>
-
-#### Frontend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-#### Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration" />
-</p>
-
-#### Database
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-#### DevOps & Cloud
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-#### Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</p>
-
-### &#x1F4AB; GitHub Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=tokyonight&card_width=500" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=default&card_width=500" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api?username=gurugetnm&show_icons=true&hide_border=true&theme=default&card_width=500" alt="Thevindu Guruge GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=tokyonight&card_width=500" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=default&card_width=500" />
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurugetnm&layout=compact&hide_border=true&theme=default&card_width=500" alt="Thevindu Guruge top languages" />
-  </picture>
-</p>
+## Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&hide_border=true&area=true" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&hide_border=true&area=true" alt="Thevindu Guruge activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=react-dark&bg_color=00000000&color=8B949E&line=7C3AED&point=22C55E&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&bg_color=00000000&color=57606A&line=7C3AED&point=22C55E&hide_border=true&area=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gurugetnm&theme=github-light&bg_color=00000000&hide_border=true&area=true" alt="Contribution activity" />
 </picture>
 
 </div>
 
-### &#x1F91D; Connect With Me
-
-<p align="center">
-  <a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/thevindu-guruge" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.thevinduguruge.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://twitter.com/thevindunimdiy2" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://instagram.com/thevindu_guruge" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://fb.com/thevindu.nimdiya" target="_blank"><img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
-
----
+<br />
 
 <div align="center">
 
-<strong>Learning deeply, building intelligently, and shipping software that helps.</strong>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:7C3AED,100:22C55E&height=6&section=header" width="100%" alt="" />
 
-<br />
-<br />
+<a href="mailto:gurugetnm@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/thevindu-guruge" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.thevinduguruge.site" target="_blank"><img src="https://img.shields.io/badge/-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://twitter.com/thevindunimdiy2" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+<a href="https://instagram.com/thevindu_guruge" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://fb.com/thevindu.nimdiya" target="_blank"><img src="https://img.shields.io/badge/-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:7C3AED,100:0EA5E9&height=110&section=footer" alt="Footer wave" />
+<sub>Learning deeply, building intelligently, shipping software that helps.</sub>
 
 </div>
