@@ -72,19 +72,8 @@ Mobile app that identifies snakes, insects and spiders from images using ML mode
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
 </td>
-<td width="50%" valign="top">
 
-### TuitionLanka
 
-<img src="https://img.shields.io/badge/Built-22C55E?style=for-the-badge&logoColor=white" alt="Built" />
-
-Tutoring platform with tutor registration, verification workflows, admin dashboard, filtering and messaging.
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### RAG Chatbot
@@ -96,6 +85,8 @@ Retrieval-based chatbot built on embeddings and vector search over web and docum
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### Guruge Cinnamon
