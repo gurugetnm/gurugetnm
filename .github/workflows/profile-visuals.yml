@@ -1,0 +1,80 @@
+name: Refresh profile visuals
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 2 * * 1'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    if: github.repository == 'gurugetnm/gurugetnm'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+      - name: Generate contribution snakes
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3, Node 24
+        with:
+          github_user_name: gurugetnm
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            assets/profile/snake-dark.svg?palette=github-dark&color_snake=%2306b6d4&color_dots=%23151d32,%232e2254,%235a3693,%238b5cf6,%23c4b5fd
+            assets/profile/snake-light.svg?palette=github-light&color_snake=%232563eb&color_dots=%23e8eaf2,%23ddd6fe,%23a78bfa,%238b5cf6,%236d28d9
+      - name: Refresh public statistics and accessible fallbacks
+        run: python3 scripts/refresh-profile.py
+      - name: Store generated visuals
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9
+        with:
+          name: profile-visuals
+          retention-days: 7
+          if-no-files-found: error
+          path: |
+            assets/profile/stats-*.svg
+            assets/profile/languages-*.svg
+            assets/profile/calendar-*.svg
+            assets/profile/snake-*.svg
+            assets/profile/snapshot.json
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: false
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333
+        with:
+          name: profile-visuals
+          path: assets/profile
+      - name: Save only generated visual assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          gh auth setup-git
+          git add assets/profile/stats-*.svg assets/profile/languages-*.svg assets/profile/calendar-*.svg assets/profile/snake-*.svg assets/profile/snapshot.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: refresh profile visual snapshots'
+          git pull --rebase origin "$DEFAULT_BRANCH"
+          git push origin "HEAD:$DEFAULT_BRANCH"

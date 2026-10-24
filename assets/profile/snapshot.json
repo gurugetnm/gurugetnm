@@ -1,0 +1,19 @@
+{
+  "fetched_at_utc": "2026-10-24T17:55:02.498742+00:00",
+  "user": "gurugetnm",
+  "contributions_last_year": 2975,
+  "calendar_start": "2025-10-19",
+  "calendar_end": "2026-10-24",
+  "public_nonfork_repositories": 14,
+  "primary_language_repository_counts": {
+    "Python": 6,
+    "JavaScript": 1,
+    "Dart": 1,
+    "TypeScript": 3,
+    "Jupyter Notebook": 1
+  },
+  "sources": [
+    "https://api.github.com/users/gurugetnm/repos",
+    "https://github.com/users/gurugetnm/contributions"
+  ]
+}
